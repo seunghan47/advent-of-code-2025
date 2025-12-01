@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="09306794-78bb-4aa7-a919-6100d92e12c5" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="36Fhf6lUszM0XevdWB9k22lsHDj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/polim/Desktop/personalProject/adventofcode2025"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="09306794-78bb-4aa7-a919-6100d92e12c5" name="Changes" comment="" />
+      <created>1764608326895</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1764608326895</updated>
+    </task>
+    <servers />
+  </component>
+</project>
