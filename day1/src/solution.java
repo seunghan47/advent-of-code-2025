@@ -15,19 +15,12 @@ public class solution {
                     ans += (start + amount) / 100;
                     start = (start + amount) % 100;
                 } else {
-                    if (amount > start) {
-                        if (start == 0) ans --;
-                        start -= amount;
-                        ans += (int) Math.ceil((double) start / -100);
-                        start = start % 100;
-                        if (start < 0) start += 100;
-                        if (start == 0) ans++;
-                    } else if (amount == start) {
-                        ans++;
-                        start = 0;
-                    } else {
-                        start -= amount;
-                    }
+                    if (start == 0) ans --;
+                    start -= amount;
+                    ans += (int) Math.ceil((double) start / -100);
+                    start = start % 100;
+                    if (start < 0) start += 100;
+                    if (start == 0) ans++;
                 }
             }
         } catch (Exception e) {
